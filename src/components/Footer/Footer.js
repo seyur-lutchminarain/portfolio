@@ -21,7 +21,7 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:111-111-111">111-111-11</LinkItem>
+          <LinkItem href="tel:+27614821366">(+27) 61 482 1366</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
@@ -32,16 +32,19 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Test Slogan</Slogan>
+          <Slogan>
+            "Those who dare to fail miserably can achieve greatly." ― John F.
+            Kennedy
+          </Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/seyur-lutchminarain">
             <AiFillGithub size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://instagram.com">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/seyur-lutchminarain/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
         </SocialContainer>

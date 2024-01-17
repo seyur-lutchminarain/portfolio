@@ -38,9 +38,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2017, text: 'Started my journey as a developer.', },
+  { year: 2019, text: 'Begun studying Computer Science at the University Of The Witwatersand.', },
+  { year: 2021, text: 'Graduated with a BSc Computer Science & Computational Applications (Cum Laude).', },
+  { year: 2022, text: 'Started my journey in the FinTech industry with Old Mutual.', },
 ];

@@ -66,7 +66,12 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About me</SectionTitle>
-      <SectionText>Lorem Lorem Lorem Lorem Lorem</SectionText>
+      <SectionText>
+        My interest in software was ignited during my schooling career where I
+        chose to study I.T as a core subject. I was addicted instantly and have
+        never looked back since. Below is a brief timeline outlining my journey
+        as a developer.
+      </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, i) => (
